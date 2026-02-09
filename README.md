@@ -1,4 +1,4 @@
-# 🐸 Interactive Valentine's Card
+# 💌🐸 Interactive Valentine's Card
 An adorable, interacrive web application built with **Streamlit** to ask someone to be yout Valentine in a playful way.
 
 ## Features
