@@ -16,3 +16,5 @@ If you want to run this locally:
 - [Streamlit](https://streamlit.io/) - The fastest way to build and share data apps.
 - Python
 - Custom CSS & Giphy Animations
+
+### *Author: Chiara Pizzetti*
